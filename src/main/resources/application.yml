@@ -1,0 +1,14 @@
+#spring:
+#  datasource:
+#    username: ENC(np7IPgNmsFNJ3jCGivCrhnwDGCpbSxVqI3tdJ2TFE9OW/GNvfR1qYHB7e/FswnKd)
+#    password: ENC(KN23M1M7KGBfor4inNsvMyhqGcQ9Kd+flFAa4OIH1Ymd3RmvyFcO1R5qYJZA72Ct)
+#    url: jdbc:h2:mem:testdb
+#    driver-class-name: org.h2.Driver
+#  jpa:
+#    show-sql: true
+#    hibernate:
+#      ddl-auto: update
+#    properties.hibernate.dialect: org.hibernate.dialect.H2Dialect
+#server:
+#  port: 9190
+#
