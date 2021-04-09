@@ -1,4 +1,4 @@
-package com.javatechie.crud.example;
+package com.shashi.jasypt.example;
 
 import com.ulisesbocchio.jasyptspringboot.annotation.EnableEncryptableProperties;
 import org.springframework.boot.SpringApplication;
